@@ -1,0 +1,24 @@
+{"timestamp": "2024-12-08T16:52:13.989529", "user_id": "dcd67efa-c5b3-4892-9318-9a8ecf6783dc", "action": "page_visit", "details": {"page": "main"}}
+{"timestamp": "2024-12-08T16:52:20.555644", "user_id": "dcd67efa-c5b3-4892-9318-9a8ecf6783dc", "action": "page_visit", "details": {"page": "main"}}
+{"timestamp": "2024-12-08T16:52:20.571546", "user_id": "dcd67efa-c5b3-4892-9318-9a8ecf6783dc", "action": "prediction_attempt", "details": {"age": 35, "income": 60000, "policy_term": 5}}
+{"timestamp": "2024-12-08T16:57:36.980844", "user_id": "b175d1e8-9b42-4c33-b552-305fa8cf5414", "action": "page_visit", "details": {"page": "main"}}
+{"timestamp": "2024-12-08T16:57:57.471686", "user_id": "2a1acbd6-5603-454a-a4e4-b38123e9b18d", "action": "page_visit", "details": {"page": "main"}}
+{"timestamp": "2024-12-08T16:58:10.013711", "user_id": "2a1acbd6-5603-454a-a4e4-b38123e9b18d", "action": "page_visit", "details": {"page": "main"}}
+{"timestamp": "2024-12-08T16:58:10.033866", "user_id": "2a1acbd6-5603-454a-a4e4-b38123e9b18d", "action": "prediction_attempt", "details": {"age": 35, "income": 60000, "policy_term": 5}}
+{"timestamp": "2024-12-08T16:58:45.089339", "user_id": "2a1acbd6-5603-454a-a4e4-b38123e9b18d", "action": "page_visit", "details": {"page": "main"}}
+{"timestamp": "2024-12-08T16:58:45.103344", "user_id": "2a1acbd6-5603-454a-a4e4-b38123e9b18d", "action": "prediction_attempt", "details": {"age": 35, "income": 60000, "policy_term": 5}}
+{"timestamp": "2024-12-08T17:06:16.473474", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "page_visit", "details": {"page": "home"}}
+{"timestamp": "2024-12-08T17:06:20.306810", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "page_visit", "details": {"page": "prediction"}}
+{"timestamp": "2024-12-08T17:06:22.788451", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "page_visit", "details": {"page": "prediction"}}
+{"timestamp": "2024-12-08T17:06:22.803911", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "prediction_attempt", "details": {"age": 35, "income": 60000, "policy_term": 5}}
+{"timestamp": "2024-12-08T17:06:26.891060", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "page_visit", "details": {"page": "analytics"}}
+{"timestamp": "2024-12-08T17:06:32.185777", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "page_visit", "details": {"page": "user activity"}}
+{"timestamp": "2024-12-08T17:06:49.782596", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "page_visit", "details": {"page": "home"}}
+{"timestamp": "2024-12-08T17:06:56.559299", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "page_visit", "details": {"page": "prediction"}}
+{"timestamp": "2024-12-08T17:06:58.863709", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "page_visit", "details": {"page": "prediction"}}
+{"timestamp": "2024-12-08T17:06:58.878837", "user_id": "e0a1d1f0-f90b-4c4a-bc33-6b6077631141", "action": "prediction_attempt", "details": {"age": 35, "income": 60000, "policy_term": 5}}
+{"timestamp": "2024-12-08T17:07:52.930892", "user_id": "8005e6af-6ff0-4d01-898d-4fb424b50896", "action": "page_visit", "details": {"page": "home"}}
+{"timestamp": "2024-12-08T17:07:54.989308", "user_id": "8005e6af-6ff0-4d01-898d-4fb424b50896", "action": "page_visit", "details": {"page": "prediction"}}
+{"timestamp": "2024-12-08T17:07:57.520529", "user_id": "8005e6af-6ff0-4d01-898d-4fb424b50896", "action": "page_visit", "details": {"page": "prediction"}}
+{"timestamp": "2024-12-08T17:07:57.534528", "user_id": "8005e6af-6ff0-4d01-898d-4fb424b50896", "action": "prediction_attempt", "details": {"age": 35, "income": 60000, "policy_term": 5}}
+{"timestamp": "2024-12-08T17:08:57.054107", "user_id": "82d94a66-516a-4ac9-8665-22cdc0b228dd", "action": "page_visit", "details": {"page": "main"}}
